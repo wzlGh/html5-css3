@@ -1,7 +1,5 @@
 /**
  * [mainjs description]
- * @Author   v_yuchangshuang@baidu.com
- * @DateTime 2016-07-13T13:35:32+0800
  */
 
 var iNow = 0;
